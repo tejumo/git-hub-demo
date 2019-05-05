@@ -1,3 +1,3 @@
 # git-hub-demo
 
-hi , learning git
+# hi , learning git
